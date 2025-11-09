@@ -140,3 +140,5 @@ Built to simplify and speed up your quoting process with accuracy and profession
 - Built with Flutter framework
 - Uses Material Design components
 - Inspired by modern business quoting workflows
+
+<img width="1080" height="2400" alt="Screenshot_20251109-155929" src="https://github.com/user-attachments/assets/4400d11d-dde2-4ec7-8cf5-6bd2628182c6" />
