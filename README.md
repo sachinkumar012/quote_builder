@@ -142,4 +142,6 @@ Built to simplify and speed up your quoting process with accuracy and profession
 - Inspired by modern business quoting workflows
 
  <img width="1080" height="2400" alt="Screenshot_20251109-155907" src="https://github.com/user-attachments/assets/91c55f0b-cb98-4e37-a488-2fdda4999e8d" />
+<img width="1080" height="2400" alt="Screenshot_20251109-155916" src="https://github.com/user-attachments/assets/8cf8603d-3e2c-4627-95f3-d0447353b41d" />
+
 
